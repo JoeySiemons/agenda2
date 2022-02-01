@@ -1,0 +1,27 @@
+body {
+    background-color:  #deeaee;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+
+#div1 {
+   background-color: #667292; 
+   text-align: center;
+   border: 2px solid black;
+   margin: 100px;
+   padding: 100px;
+}
+
+#button {
+    width: 10%;
+    height: 4%;
+}
+
+#oms {
+    height: 10%;
+}
